@@ -24,7 +24,7 @@ public class User {
         this.name = name;
         this.status = status;
     }
-
+//second line
     // Getters and Setters
     public Long getId() {
         return id;
